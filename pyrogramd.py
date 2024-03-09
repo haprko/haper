@@ -1,10 +1,10 @@
 from pyrogram import Client, filters
 
-bot_token = "توكن بوتك"
+bot_token = "7095650662:AAEYj-8VyfwH_oknmrT4ToBUE9Hpxrm--Dw"
 
-api_id = 25281175
-api_hash = "6d99cb2b60a2c519fc1f99bd19565730"
-app = Client("nb", api_id, api_hash, bot_token=bot_token)
+api_id = 22523706
+api_hash = "6c96d6adf05692af62edaa36cc41a457"
+app = Client("nb", api_id, api_hash, bot_token=7095650662:AAEYj-8VyfwH_oknmrT4ToBUE9Hpxrm--Dw)
 
 
 app.start()

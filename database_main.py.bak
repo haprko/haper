@@ -11,7 +11,7 @@ general_response_name_file = "general_responses.db"
 User_private_name_file = "User_private.db"
 general_response = "general_responsesBOT.db"
 lock = threading.Lock()
-My_id = int("6646979569")
+My_id = int("6581896306")
 db = sqlite3.connect("Towasoul.db", check_same_thread=False)
 cr = db.cursor()
 

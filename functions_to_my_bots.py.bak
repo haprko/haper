@@ -10,7 +10,7 @@ from messagesBots import *
 
 import config
 
-bot = telebot.TeleBot(config.7095650662:AAEYj-8VyfwH_oknmrT4ToBUE9Hpxrm--Dw)
+bot = telebot.TeleBot(config.Token)
 
 
 def Compulsory_subscription(message: Message):
